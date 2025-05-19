@@ -59,5 +59,5 @@ Export Morse to audio files (WAV/MP3)
 
 ---
 
-🛠️ Author
+🛠️ Author    
 Created with 💗 by Sathvik Reddy
