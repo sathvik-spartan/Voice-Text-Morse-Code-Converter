@@ -1,0 +1,4 @@
+pip install SpeechRecognition pyttsx3 pyaudio
+
+Note: 
+this file is named optional as python libraries can be directly installed in the virtual environment of your python IDE
