@@ -1,4 +1,4 @@
-# 🔊 Voice/Text/Morse Code Converter
+# Voice/Text/Morse Code Converter
 
 This is a Python-based console application that allows users to convert between **voice, text, and Morse code**. It supports:
 - Voice to Text
@@ -11,21 +11,21 @@ This is a Python-based console application that allows users to convert between 
 
 ---
 
-## 🚀 Features
+## Features
 
 | Feature                  | Description                                                   |
 |--------------------------|---------------------------------------------------------------|
-| 🎤 Voice to Text         | Converts spoken input into text using Google Speech API       |
-| 💬 Text to Morse         | Converts text into Morse code                                 |
-| 🆎 Morse to Text         | Converts Morse code into readable text                        |
-| 🗣️ Text to Speech       | Reads text aloud using the pyttsx3 text-to-speech engine      |
-| 📢 Play Morse Code       | Beeps Morse code via your system speaker (Windows only)       |
-| 💾 Save/Load to File     | Save any text or Morse to a file and reload it later          |
-| 🎙️ Voice to Morse Code | Combines voice recognition and Morse conversion + audio beeps |
+| Voice to Text         | Converts spoken input into text using Google Speech API       |
+| Text to Morse         | Converts text into Morse code                                 |
+| Morse to Text         | Converts Morse code into readable text                        |
+| Text to Speech       | Reads text aloud using the pyttsx3 text-to-speech engine      |
+| Play Morse Code       | Beeps Morse code via your system speaker (Windows only)       |
+| Save/Load to File     | Save any text or Morse to a file and reload it later          |
+| Voice to Morse Code | Combines voice recognition and Morse conversion + audio beeps |
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Make sure you have Python 3 installed. Then install the required Python libraries:
 
@@ -33,7 +33,7 @@ Make sure you have Python 3 installed. Then install the required Python librarie
 pip install speechrecognition pyttsx3 pyaudio
 ```
 
-⚠️ Note: On Windows, winsound is built-in.
+Note: On Windows, winsound is built-in.
 
 ## How It Works
 1. Voice Recognition
@@ -59,5 +59,5 @@ Export Morse to audio files (WAV/MP3)
 
 ---
 
-🛠️ Author    
+### Author    
 Created with 💗 by Sathvik Reddy
