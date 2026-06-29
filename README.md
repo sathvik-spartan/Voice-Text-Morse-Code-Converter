@@ -1,6 +1,6 @@
 # Voice/Text/Morse Code Converter
 
-This is a Python-based console application that allows users to convert between **voice, text, and Morse code**. It supports:
+This is a Python-based console (CLI) application that allows users to convert between **voice, text, and Morse code**. It supports:
 - Voice to Text
 - Text to Morse Code
 - Morse Code to Text
