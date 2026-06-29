@@ -27,13 +27,13 @@ This is a Python-based console (CLI) application that allows users to convert be
 
 ## Requirements
 
-Make sure you have Python 3 installed. Then install the required Python libraries:
+Make sure you have Python3 (3.11 recommended) installed. Then install the required Python libraries if you don't prefer requirements.txt file:
 
 ```bash
 pip install speechrecognition pyttsx3 pyaudio
 ```
 
-Note: On Windows, winsound is built-in.
+Note: *On Windows, winsound is built-in.*
 
 ## How It Works
 1. Voice Recognition
