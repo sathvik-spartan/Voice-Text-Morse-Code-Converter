@@ -58,6 +58,3 @@ Add Morse code decoding from audio input
 Export Morse to audio files (WAV/MP3)
 
 ---
-
-### Author    
-Created with 💗 by Sathvik Reddy
